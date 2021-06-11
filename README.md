@@ -6,7 +6,7 @@ Google Play: https://cutt.ly/enOMGpv
 
 <br>
 <p align="center">
-  <img src="readme/herorun.gif" width="300">
+  <img src="readme/mini.gif" width="300">
 </p>
 
 #### This game has following packages:

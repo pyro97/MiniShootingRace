@@ -1,8 +1,6 @@
 # MiniShootingRace
 
-Endless runner game about a city governor who have to shot enemies along the road in such a way as to bring order and become the hero of the city.
-<br>
-Google Play: https://cutt.ly/enOMGpv
+Basketball game in which you have to score as much points as possible by shooting the ball from a sequence of different positions on the court, in a certain time.
 
 <br>
 <p align="center">
